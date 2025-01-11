@@ -2,6 +2,10 @@
 
 Here we are going to build a Odia Tokennizer for inputing text into LLMs.
 
+Output Compression Ratio:
+
+https://github.com/sudhakarmlal/Session11-ERAV3/blob/main/CompressionRation3.25.GIF
+
 # Trainin Logs:
 num_merges :  4908
 89
