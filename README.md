@@ -195,8 +195,8 @@ num_merges :  4908
 4994
 4995
 4996
-Decoded: ଏହା ବହୁତ ସାଧାରଣ ହୋଇଗଲାଣି ।
-Compression ratio: 2.36
+Decoded: ତୁମେ ମଧ୍ୟାହ୍ନ ଭୋଜନ କରିସାରିଲ କି?
+Compression ratio: 3.25
 
 Vocabulary size: 5000
 Number of merges: 4908
