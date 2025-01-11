@@ -235,6 +235,6 @@ Number of merges: 4908
 ## Deployment
 - This is deployed in HUggingface Spaces. The link is provided below.
 
-    https://huggingface.co/spaces/satyanayak/odia_tokenizer_5k
+    [https://huggingface.co/spaces/satyanayak/odia_tokenizer_5k](https://huggingface.co/spaces/sudhakar272/Odia5KTokenizer)
 
 - This can generate the BPE code as we type into input area dynamically
